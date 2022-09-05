@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Safalta Task</string>
+    <string name="title_activity_show_hospital">Hospitals Near You</string>
+</resources>

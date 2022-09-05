@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "511333706007",
+    "project_id": "safalta-task",
+    "storage_bucket": "safalta-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511333706007:android:e27d77ce77a6e06688af52",
+        "android_client_info": {
+          "package_name": "com.messaging.safaltatask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511333706007-66lo602ua7uunpkeagb6gdnssjq727a9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNO26mhzMzfLxrQs7uLUco-iAt5Ow_nEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511333706007-66lo602ua7uunpkeagb6gdnssjq727a9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
